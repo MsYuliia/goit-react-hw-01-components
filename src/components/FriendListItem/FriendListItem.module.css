@@ -1,0 +1,25 @@
+.status {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: 3px #d0d8e4 solid;
+
+  margin-left: 20px;
+  margin-right: 30px;
+}
+
+.true {
+  background-color: green;
+}
+
+.false {
+  background-color: red;
+}
+
+.name {
+  font-size: 18px;
+  color: #2e2f42;
+  font-weight: 500;
+
+  margin-left: 30px;
+}
